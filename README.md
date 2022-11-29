@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JasonWei512/JasonWei512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![JasonWei512's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JasonWei512&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/JasonWei512/JasonWei512#gh-dark-mode-only)
+[![JasonWei512's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JasonWei512&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/JasonWei512/JasonWei512#gh-light-mode-only)
