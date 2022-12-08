@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📨 Contact Me / 联系我
+### ✉️ Contact Me / 联系我
 
 JasonWei512@Outlook.com
 
